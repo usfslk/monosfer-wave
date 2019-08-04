@@ -1,0 +1,12 @@
+{
+  "name": "wavesurfer",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "wavesurfer.js": "2.0.0-beta02",
+    "react-dom": "15.5.3",
+    "react": "15.5.3"
+  }
+}
