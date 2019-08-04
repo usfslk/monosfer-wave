@@ -5,9 +5,12 @@
   "keywords": [],
   "main": "index.js",
   "dependencies": {
+    "filepond": "^4.4.12",
+    "firebase": "^6.3.4",
     "react": "15.5.3",
     "react-dom": "15.5.3",
     "react-dropzone": "^10.1.7",
+    "react-filepond": "^7.0.1",
     "wavesurfer.js": "2.0.0-beta02"
   },
   "devDependencies": {
