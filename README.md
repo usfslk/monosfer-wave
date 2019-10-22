@@ -41,17 +41,13 @@ npm run build
 * [Wavesurfer](https://wavesurfer-js.org/) - Wave reneder
 * [React](https://reactjs.org/) - Front-end framework
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Versioning
 
 For the versions available, see the [tags on this repository](https://github.com/usfslk/monosfer-wave/tags). 
 
-## Authors
+## Author
 
-* **Youssef Selkani** - *Initial work* - [Chrysntm](https://chrysntm.com/)
+* **Youssef Selkani** - [Chrysntm](https://chrysntm.com/)
 
 ## License
 
