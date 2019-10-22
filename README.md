@@ -1,11 +1,3 @@
-# 
-
-## Features
-
-- Sound upload 
-- Voice Recorder
-- Spectogram Generator
-
 # Monosfer
 
 Turn your favorite sound into digital art
@@ -36,11 +28,18 @@ Deploy this on a live system
 npm run build
 ```
 
+## Features
+
+- Sound upload 
+- Voice Recorder
+- Spectogram Generator
+- Firestore database CRUD
+
 ## Built With
 
-* [Firebase](https://console.firebase.google.com) - Firebase
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Firebase](https://console.firebase.google.com) - NOSQL DB
+* [Wavesurfer](https://wavesurfer-js.org/) - Wave reneder
+* [React](https://reactjs.org/) - Front-end framework
 
 ## Contributing
 
