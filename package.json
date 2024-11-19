@@ -6,7 +6,7 @@
   "main": "index.js",
   "dependencies": {
     "filepond": "^4.4.12",
-    "firebase": "^6.3.4",
+    "firebase": "^10.9.0",
     "react": "15.5.3",
     "react-dom": "15.5.3",
     "react-dropzone": "^10.1.7",
